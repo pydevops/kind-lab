@@ -30,7 +30,7 @@ TL;DR: How to set up a Kubernetes cluster managed by [KIND](https://kind.sigs.k8
 * An ephemeral cluster to troubleshoot a kubernetes or Istio issue.
 * An ephemeral cluster to test out new features of kubernetes or Istio release. 
 * A lab cluster to learn Kubernetes and Istio, which can be discarded anytime.
-* A useful way to demo a proof of concept based on any features leveraging Kuberenetes and Istio. 
+* A useful way to demo a proof of concept based on any features leveraging Kubernetes and Istio. 
 
 # Pre-requisites
 
